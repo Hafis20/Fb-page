@@ -1,0 +1,241 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0;
+    font-family:  Helvetica Neue,Arial, Helvetica, sans-serif;
+}
+.container{
+    height: 812px;
+}
+.logo{
+    width: 50%;
+    padding-top: 27px;
+    float: left;
+    
+}
+.login{
+    width: 50%;
+    float: left;
+    padding-top: 7px;
+}
+.logo-text{
+    color: white;
+    font-size: 41px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica Neue,Arial, Helvetica, sans-serif;
+    margin-left: 116px;
+}
+.Email{
+    color:white;
+    font-size: 16px;
+}
+
+.Password{
+    color: #fff;
+    font-size: 16px;
+    margin-left: 15px;
+}
+.input-Email{
+    color: black;
+    border-radius: 6px;
+    height: 18px;
+    margin-left: -1px;
+}
+.input-Email:hover{
+    background: #d6dae2;
+}
+.input-Password{
+    color: black;
+    border-radius: 5px;
+    height: 18px;
+    margin-left: 15px;
+}
+.input-Password:hover{
+    background: #d6dae2;
+}
+.login-controls{
+    margin-left: 50px;
+}
+.forgotten-account{
+    color: #e6c9c9;
+    margin-left: 15px;
+}
+.login-button{
+    background: #4267b2;
+    color: #fff;
+    height: 21px;
+    border-color: #29487d;
+    cursor: pointer;
+    margin-left: 10px;
+    border-radius: 5px;
+    height: 22px;
+}
+.login-button:hover{
+    background: darkblue;
+}
+.left-section{
+    width: 40%;
+    float:left;
+    padding-left: 120px;
+    padding-top: 27px;
+}
+.right-section{
+    width: 50%;
+    float:left;
+}
+.Main-body{
+    background: linear-gradient(white,#D3D8E8);
+    width: 100%;
+    height: 568px;
+}
+.image{
+    width: 485px;
+    height: 263px
+}
+.paragraph{
+    font-weight: bold;
+    font-size: 21px;
+}
+.right-heading{
+    font-size: 35px;
+    font-weight: bold;
+    padding-left: 62px;
+}
+.right-para{
+    font-size: 19px;
+    padding-left: 62px;
+}
+.F-name{
+    padding-left: 60px;
+}
+.name{
+    height: 30px;
+    font-size: 17px;
+    border-radius: 5px;
+    inline-size: 201px;
+    background: #fff;
+    border-width: 1px;
+}
+.name:hover{
+    background: #d6dae2;
+}
+.surname{
+    height: 30px;
+    border-radius: 5px;
+    width: 155px;
+    margin-left: 7px;
+    font-size: 17px;
+    background: #fff;
+    border-width: 1px;
+}
+.surname:hover{
+    background: #d6dae2;
+}
+.right-email{
+    margin-left: 62px;
+    inline-size: 375px;
+    border-radius: 5px;
+    height: 30px;
+    margin-top: 3px;
+    font-size: 17px;
+    background: #fff;
+    border-width: 1px;
+}
+.right-email:hover{
+    background: #d6dae2;
+}
+.right-Password{
+    margin-left: 62px;
+    inline-size: 375px;
+    border-radius: 5px;
+    height: 30px;
+    margin-top: 5px;
+    font-size: 17px;
+    background: #fff;
+    border-width: 1px;   
+}
+.right-Password:hover{
+    background: #d6dae2;
+}
+.Date{
+    padding-left: 62px;
+    font-size: 16px;
+    
+}
+.Gender{
+    padding-left: 62px;
+}
+.question-mark{
+    color: #fff;
+    background-color: #514c4c;
+    width: 18px;
+    height: 17px;
+    display: inline-block;
+    border-radius: 100%;
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+}
+.gender-question{
+   
+    color: #fff;
+    background-color: #514c4c;
+    width: 18px;
+    height: 17px;
+    display: inline-block;
+    border-radius: 100%;
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+}
+.above-button-para{
+    padding-left: 62px;   
+}
+.last-button{
+    padding-left: 62px;
+}
+.sign-button{
+    padding-left: 13px;
+    background: #199f19;
+    color: #fff;
+    border-radius: 4px;
+    border-color: #199f19;
+    font-size: 19px;
+    width: 245px;
+    height: 42px;
+    cursor: pointer;
+}
+.sign-button:hover{
+    background-color:rgb(36, 235, 63);
+}
+.text-color{
+    color: darkblue;   
+    text-decoration: none;     
+    font-weight: bold;
+}
+
+.footer{
+    width:100%;
+    height: 158px;
+    margin-top:0px;
+    background: #29487d;
+    display: inline-block;
+    
+}
+.last-foot{
+  
+    width: 75%;
+    height: 126px;
+    margin-left: 165px;
+    color: #d6dae2;
+    cursor: pointer;
+
+}
+.last-words{
+    border-spacing: 4px;
+    width: 100%;
+}
